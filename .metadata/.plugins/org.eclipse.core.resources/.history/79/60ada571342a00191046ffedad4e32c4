@@ -1,0 +1,11 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+user function OPERADOR()
+
+	Local nNum1 := 10
+	Local nNum2 := 20
+	
+	Alert(nNum1 + nNum2)
+	
+return

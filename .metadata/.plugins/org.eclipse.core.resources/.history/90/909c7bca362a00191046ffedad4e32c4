@@ -1,0 +1,24 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+user function OPERADOR()
+
+	Local nNum1 := 10
+	Local nNum2 := 20
+	
+	//Alert(nNum1 + nNum2) //adição
+	//Alert(nNum2 - nNum1) //subtração
+	//Alert(nNum1 * nNum2) //multiplicação
+	//Alert(nNum2 / nNum1) //divisão
+	//Alert(nNum2 % nNum1) //módulo, resto da divisão
+	
+	//OPERADORES RELACIONAIS
+	Alert(nNum1 < nNum2)	//comparação menor
+	Alert(nNum1 > nNum2)	//comparação maior
+	Alert(nNum1 = nNum2)	//comparação igual
+	Alert(nNum1 == nNum2)	//EXATAMENTE IGUAL
+	Alert(nNum1 <= nNum2)	//
+	Alert(nNum1 >= nNum2)	//
+	Alert(nNum1 != nNum2)	//
+	
+return

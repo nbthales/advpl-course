@@ -1,0 +1,17 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+Static cStat :=''
+
+user function ESCOPO1()
+
+	// VARIAVEIS LOCAIS
+	Local nVar0 := 1
+	Local nVar1 := 20
+	
+	// VARIAVEIS PRIVATE
+	Private cPri := 'private!'
+	
+	// VARIAVEL PUBLIC
+	Public __cPublic := 'RCTI'
+return

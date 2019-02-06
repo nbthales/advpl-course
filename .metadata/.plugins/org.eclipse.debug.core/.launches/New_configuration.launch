@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="AdvPL.launchType">
+<stringAttribute key="ADVPLParameters" value=""/>
+<booleanAttribute key="ADVPLProfile" value="false"/>
+<stringAttribute key="ADVPLRemoteDirectory" value="C:\TOTVS12\Protheus\bin\smartclient\smartclient.exe"/>
+<stringAttribute key="ADVPLStartProgram" value=""/>
+<stringAttribute key="br.com.totvs.tds.debug.launche.SMARTCLIENT_ARG_LANGUAGE" value=""/>
+<booleanAttribute key="br.com.totvs.tds.debug.launcher.SMARTCLIENT_ARG_ACCESSIBILITY" value="false"/>
+<booleanAttribute key="br.com.totvs.tds.debug.launcher.SMARTCLIENT_ARG_LANGUAGE_SELECTIION" value="false"/>
+<booleanAttribute key="br.com.totvs.tds.debug.launcher.SMARTCLIENT_ARG_SESSIONS" value="true"/>
+<booleanAttribute key="br.com.totvs.tds.debug.launcher.SMARTCLIENT_ARG_SPLASH" value="false"/>
+<listAttribute key="br.com.totvs.tds.debug.launcher.SMARTCLIENT_LIST">
+<listEntry value="C:\TOTVS12\Protheus\bin\smartclient\smartclient.exe"/>
+</listAttribute>
+<stringAttribute key="lastModeExecuted" value="run"/>
+<stringAttribute key="lastProgramExecuted" value="U_OPERADOR"/>
+<stringAttribute key="lastProgramExecutedParams" value=""/>
+</launchConfiguration>
