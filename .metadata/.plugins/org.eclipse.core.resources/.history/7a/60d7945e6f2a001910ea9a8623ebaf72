@@ -1,0 +1,15 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+user function ESTRREP()
+
+	Local nCount
+	Local nNum := 0
+	
+	For nCount := 0 To 10
+	
+	nNum += nCount
+	
+	Next
+	
+return

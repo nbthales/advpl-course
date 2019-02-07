@@ -1,0 +1,14 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+user function DoCase()
+
+	Local cData := "06/02/2019"
+	
+	Do Case
+	
+	
+		
+	EndCase
+	
+return

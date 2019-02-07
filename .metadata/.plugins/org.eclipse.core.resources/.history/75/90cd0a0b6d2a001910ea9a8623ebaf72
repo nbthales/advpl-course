@@ -1,0 +1,14 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+user function ESTRUTUR()
+	
+	Local nNum1 := 22
+	Local nNum2 := 100
+	If(nNum1 <= nNum2)
+	MsgInfo("A variável nNum1 é menor ou igual a nNum2")
+	Else
+	Alert("A variável nNum1 não é igual ou menor a nNum2")
+	EndIf
+	
+return

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Mover &quot;AVETOR.prw, AVETOR2.prw, BLOCO.prw, DoCase.prw, ESCOPO1.prw, ESTRREP.prw, ESTRUTUR.prw, OlaMundo.prw, OPERADOR.prw, VARIAVEL.prw&quot; a &quot;01 - Logica Prog&quot;" description="Move 10 resources to &apos;01 - Logica Prog&apos;" destination="01 - Logica Prog" element1="AVETOR.prw" element10="VARIAVEL.prw" element2="AVETOR2.prw" element3="BLOCO.prw" element4="DoCase.prw" element5="ESCOPO1.prw" element6="ESTRREP.prw" element7="ESTRUTUR.prw" element8="OlaMundo.prw" element9="OPERADOR.prw" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="10" stamp="1549503085698" updateReferences="true"/>
+</session>

@@ -1,0 +1,14 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+user function AVETOR()
+	
+	// Arrays: SÃO COLEÇÕES DE VALORES, SEMELHANTES A UMA LISTA
+	// CADA ITEM TEM UM ARRAY É REFERENCIADO PELA INDICAÇÃO DE SUA POSIÇÃO NUMÉRICA, INICIANDO PELO NÚMERO 1.
+	
+	Local dData := Date()
+	Local aValores := {"João", dData, 100}
+	
+	Alert(aValores[2]) // exibe a posicao 2 do array
+	
+return
