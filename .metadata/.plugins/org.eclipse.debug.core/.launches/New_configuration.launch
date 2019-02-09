@@ -12,7 +12,7 @@
 <listAttribute key="br.com.totvs.tds.debug.launcher.SMARTCLIENT_LIST">
 <listEntry value="C:\TOTVS12\Protheus\bin\smartclient\smartclient.exe"/>
 </listAttribute>
-<stringAttribute key="lastModeExecuted" value="run"/>
-<stringAttribute key="lastProgramExecuted" value="U_BANCO002"/>
+<stringAttribute key="lastModeExecuted" value="debug"/>
+<stringAttribute key="lastProgramExecuted" value="sigaadv"/>
 <stringAttribute key="lastProgramExecutedParams" value=""/>
 </launchConfiguration>

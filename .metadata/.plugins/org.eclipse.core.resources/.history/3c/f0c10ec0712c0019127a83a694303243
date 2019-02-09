@@ -1,0 +1,14 @@
+/*
+
+O cliente solicita o desenvolvimento de uma tratativa
+no sistema ERP da empresa, onde não pode ser permitido
+que usuário inclua produto do tipo "PA" com a conta
+contábil "001".
+*/
+
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+user function A010TOK()
+	
+return
