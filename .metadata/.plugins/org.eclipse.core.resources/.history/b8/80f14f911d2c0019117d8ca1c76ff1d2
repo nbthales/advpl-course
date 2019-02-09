@@ -1,0 +1,69 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+user function MBRSA2()
+	Local cAlias		:= "SA2"
+	Local aCores		:= {}
+	Local cFiltra		:= "A2_FILIAL == '"+xFilial('SA2')+"' .And. A2_EST == 'SP'"
+	Private cCadastro	:= "Cadastro MBROWSE"
+	Private aRotina		:= {}
+	Private aIndexSA2	:= {}
+	Private bFiltraBrw	:= {|| FilBrowse(cAlias,@aIndexSA2,@cFiltra)}
+	
+	AADD(aRotina,{"Pesquisar"	,"AxPisqui"		,0,1})
+	AADD(aRotina,{"Visualizar"	,"AxVisual"		,0,2})
+	AADD(aRotina,{"Inluir"		,"U_BInclui"	,0,3})
+	AADD(aRotina,{"Alterar"		,"U_BAltera"	,0,4})
+	AADD(aRotina,{"Excluir"		,"U_BDeleta"	,0,5})
+	AADD(aRotina,{"Legenda"		,"U_BLegenda"	,0,6})
+	
+	dbSelectArea(cAlias)
+	dbSetOrder(1)
+	
+	Eval(bFiltraBrw)
+	
+	dbGoTop()
+	mBrowse(6,1,22,75,cAlias)
+	
+	EndFilBrw(cAlias,aIndexSA2)
+	
+return
+
+/*-------------------------------------------------------
+		FUNÇÃO BInclui - Inclusão
+-------------------------------------------------------*/
+User Function BInclui(cAlias,nReg,nOpc)
+	Local nOpcao := 0
+	nOpcao := AxInclui(cAlias,nReg,nOpc)
+		If nOpcao == 1
+			MsgInfo("Inclusão efetuada com sucesso!")
+		Else
+			MsgAlert("Inclusão Cancelada!")
+		EndIf
+return
+
+/*-------------------------------------------------------
+		FUNÇÃO BAltera - Alteção
+-------------------------------------------------------*/
+User Function BAltera(cAlias,nReg,nOpc)
+	Local nOpcao := 0
+	nOpcao := BAltera(cAlias,nReg,nOpc)
+		If nOpcao == 1
+			MsgInfo("Alteração efetuada com sucesso!")
+		Else
+			MsgAlert("Alteração Cancelada!")
+		EndIf
+return
+
+/*-------------------------------------------------------
+		FUNÇÃO BDeleta - Exclusão
+-------------------------------------------------------*/
+User Function BDeleta(cAlias,nReg,nOpc)
+	Local nOpcao := 0
+	nOpcao := BDeleta(cAlias,nReg,nOpc)
+		If nOpcao == 1
+			MsgInfo("Exclusão cancelada!")
+		Else
+			MsgAlert("Exclusão efetuada com sucesso!")
+		EndIf
+return

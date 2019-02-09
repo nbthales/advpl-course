@@ -1,0 +1,19 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+user function MBRSA2()
+	Local cAlias		:= "SA2"
+	Local aCores		:= {}
+	Local cFiltra		:= "A2_FILIAL == '"+xFilial('SA2')+"' .And. A2_EST == 'S'`"
+	Private cCadastro	:= "Cadastro MBROWSE"
+	Private aRotina		:= {}
+	Private aIndexSA2	:= {}
+	
+	AADD(aRotina,{"Pesquisar"	,"AxPisqui"		,0,1})
+	AADD(aRotina,{"Visualizar"	,"AxVisual"		,0,2})
+	AADD(aRotina,{"Inluir"		,"U_BInclui"	,0,3})
+	AADD(aRotina,{"Alterar"		,"U_BAltera"	,0,4})
+	AADD(aRotina,{"Excluir"		,"U_BDeleta"	,0,5})
+	AADD(aRotina,{"Legenda"		,"U_BLegenda"	,0,6})
+	
+return

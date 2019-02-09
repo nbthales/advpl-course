@@ -1,0 +1,12 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+user function BANCO005()
+
+	Local aArea := GetArea()
+	Local aDados := {}
+	Private lMSErroAuto := .F.
+	
+	
+	
+return

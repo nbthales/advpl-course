@@ -1,0 +1,18 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+user function BANCO004()
+	
+	Local aArea := SB1->(GetArea())
+	
+	DbSelectArea('SB1')
+	Sb1->(DbSetOrder(1))
+	Sb1->(DbGoTop())
+	
+	// Iniciar a transação.
+	Begin Transaction
+		MsgInfo("A descrição do produto será alterada", "Atenção")
+		
+	
+	
+return

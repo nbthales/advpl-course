@@ -1,0 +1,13 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+
+user function BANCO003()
+
+	Local aArea := SB1->(GetArea())
+	Local cQuery := ""
+	Local aDados := {}
+	
+	cQuery := "	SELECT	"
+	cQuery := ""
+	
+return

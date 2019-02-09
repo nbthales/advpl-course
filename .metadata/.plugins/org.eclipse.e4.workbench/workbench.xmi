@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_IrSTcSdPEemieueFJGqATQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_IrS6gCdPEemieueFJGqATQ" bindingContexts="_IrS6hidPEemieueFJGqATQ">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;BANCO001.prw&quot; tooltip=&quot;CURSO_ADVPL/02 - Banco Dados/BANCO001.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/02 - Banco Dados/BANCO001.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;BLOCO.prw&quot; tooltip=&quot;CURSO_ADVPL/BLOCO.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/BLOCO.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;AVETOR2.prw&quot; tooltip=&quot;CURSO_ADVPL/AVETOR2.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/AVETOR2.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;AVETOR.prw&quot; tooltip=&quot;CURSO_ADVPL/AVETOR.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/AVETOR.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;ESTRREP.prw&quot; tooltip=&quot;CURSO_ADVPL/ESTRREP.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/ESTRREP.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;DoCase.prw&quot; tooltip=&quot;CURSO_ADVPL/DoCase.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/DoCase.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;ESTRUTUR.prw&quot; tooltip=&quot;CURSO_ADVPL/ESTRUTUR.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/ESTRUTUR.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;OPERADOR.prw&quot; tooltip=&quot;CURSO_ADVPL/OPERADOR.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/OPERADOR.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;VARIAVEL.prw&quot; tooltip=&quot;CURSO_ADVPL/VARIAVEL.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/VARIAVEL.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;OlaMundo.prw&quot; tooltip=&quot;CURSO_ADVPL/OlaMundo.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/OlaMundo.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;ESCOPO1.prw&quot; tooltip=&quot;CURSO_ADVPL/ESCOPO1.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/ESCOPO1.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;MBRSA2.prw&quot; tooltip=&quot;CURSO_ADVPL/03 - Modelo/MBRSA2.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/03 - Modelo/MBRSA2.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;MBRW00.prw&quot; tooltip=&quot;CURSO_ADVPL/03 - Modelo/MBRW00.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/03 - Modelo/MBRW00.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;MODELO01.prw&quot; tooltip=&quot;CURSO_ADVPL/03 - Modelo/MODELO01.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/03 - Modelo/MODELO01.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;MRBW00.prw&quot; tooltip=&quot;CURSO_ADVPL/03 - Modelo/MRBW00.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/03 - Modelo/MRBW00.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;BANCO005.prw&quot; tooltip=&quot;CURSO_ADVPL/02 - Banco Dados/BANCO005.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/02 - Banco Dados/BANCO005.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;BANCO004.prw&quot; tooltip=&quot;CURSO_ADVPL/02 - Banco Dados/BANCO004.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/02 - Banco Dados/BANCO004.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;BANCO003.prw&quot; tooltip=&quot;CURSO_ADVPL/02 - Banco Dados/BANCO003.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/02 - Banco Dados/BANCO003.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;BANCO002.prw&quot; tooltip=&quot;CURSO_ADVPL/02 - Banco Dados/BANCO002.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/02 - Banco Dados/BANCO002.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;BANCO001.prw&quot; tooltip=&quot;CURSO_ADVPL/02 - Banco Dados/BANCO001.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/02 - Banco Dados/BANCO001.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;BLOCO.prw&quot; tooltip=&quot;CURSO_ADVPL/BLOCO.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/BLOCO.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;AVETOR2.prw&quot; tooltip=&quot;CURSO_ADVPL/AVETOR2.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/AVETOR2.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;AVETOR.prw&quot; tooltip=&quot;CURSO_ADVPL/AVETOR.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/AVETOR.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;ESTRREP.prw&quot; tooltip=&quot;CURSO_ADVPL/ESTRREP.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/ESTRREP.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;DoCase.prw&quot; tooltip=&quot;CURSO_ADVPL/DoCase.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/DoCase.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;ESTRUTUR.prw&quot; tooltip=&quot;CURSO_ADVPL/ESTRUTUR.prw&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CURSO_ADVPL/ESTRUTUR.prw&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_IrS6gCdPEemieueFJGqATQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_LSGksCdPEemieueFJGqATQ" label="%trimmedwindow.label.eclipseSDK" x="496" y="12" width="860" height="721">
@@ -48,8 +48,8 @@
                 <children xsi:type="advanced:Placeholder" xmi:id="_Lc-X9idPEemieueFJGqATQ" elementId="br.com.totvs.tds.server.ui.views.ServersView" ref="_Lc44YCdPEemieueFJGqATQ"/>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_Lc-X9ydPEemieueFJGqATQ" containerData="8000" selectedElement="_Lc-X_CdPEemieueFJGqATQ">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_Lc-X-CdPEemieueFJGqATQ" containerData="7000" selectedElement="_Lc-X-idPEemieueFJGqATQ" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_Lc-X9ydPEemieueFJGqATQ" containerData="8000" selectedElement="_Lc-X-CdPEemieueFJGqATQ">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_Lc-X-CdPEemieueFJGqATQ" containerData="7000" selectedElement="_Lc-X-SdPEemieueFJGqATQ" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_Lc-X-SdPEemieueFJGqATQ" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_LcoZsCdPEemieueFJGqATQ"/>
                 <children xsi:type="basic:PartStack" xmi:id="_Lc-X-idPEemieueFJGqATQ" elementId="right" containerData="2500" selectedElement="_Lc-X-ydPEemieueFJGqATQ">
                   <tags>newtablook</tags>
@@ -83,12 +83,12 @@
           <tags>persp.viewSC:br.com.totvs.tds.server.ui.TotvsServerMonitor</tags>
           <tags>persp.viewSC:org.eclipse.ui.console.ConsoleView</tags>
           <tags>persp.showIn:br.com.totvs.tds.sdk.adminPerspective</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_X_73USdREemeC5gZkQqyRg" selectedElement="_X_73VCdREemeC5gZkQqyRg" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_X_73USdREemeC5gZkQqyRg" selectedElement="_X_73UidREemeC5gZkQqyRg" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_X_73UidREemeC5gZkQqyRg" elementId="br.com.totvs.tds.server.ui.views.ServersViewMStack" containerData="2000" selectedElement="_X_73UydREemeC5gZkQqyRg">
               <tags>newtablook</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_X_73UydREemeC5gZkQqyRg" elementId="br.com.totvs.tds.server.ui.views.ServersView" ref="_Lc44YCdPEemieueFJGqATQ"/>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_X_73VCdREemeC5gZkQqyRg" containerData="8000" selectedElement="_X_73WSdREemeC5gZkQqyRg">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_X_73VCdREemeC5gZkQqyRg" containerData="8000" selectedElement="_X_73VSdREemeC5gZkQqyRg">
               <children xsi:type="basic:PartSashContainer" xmi:id="_X_73VSdREemeC5gZkQqyRg" containerData="7000" selectedElement="_X_73VidREemeC5gZkQqyRg" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_X_73VidREemeC5gZkQqyRg" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_LcoZsCdPEemieueFJGqATQ"/>
                 <children xsi:type="basic:PartStack" xmi:id="_X_73VydREemeC5gZkQqyRg" elementId="right" containerData="2500" selectedElement="_X_73WCdREemeC5gZkQqyRg">
@@ -130,10 +130,11 @@
           <tags>persp.newWizSC:br.com.totvs.tds.sdk.advpl.ui.wizard.CodeAssistantWizard</tags>
           <tags>persp.newWizSC:br.com.totvs.tds.sdk.advpl.ui.FunctionAssistantWizard</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_UT5acSgBEem9m98YHEsQ5Q" selectedElement="_UT5adygBEem9m98YHEsQ5Q" horizontal="true">
-            <children xsi:type="basic:PartSashContainer" xmi:id="_UT5acigBEem9m98YHEsQ5Q" containerData="1850" selectedElement="_UT5acygBEem9m98YHEsQ5Q">
-              <children xsi:type="basic:PartStack" xmi:id="_UT5acygBEem9m98YHEsQ5Q" elementId="org.eclipse.ui.navigator.ProjectExplorerMStack" containerData="7000" selectedElement="_UT5adCgBEem9m98YHEsQ5Q">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_UT5acigBEem9m98YHEsQ5Q" visible="false" containerData="1850" selectedElement="_UT5acygBEem9m98YHEsQ5Q">
+              <children xsi:type="basic:PartStack" xmi:id="_UT5acygBEem9m98YHEsQ5Q" elementId="org.eclipse.ui.navigator.ProjectExplorerMStack" visible="false" containerData="7000" selectedElement="_UT5adCgBEem9m98YHEsQ5Q">
                 <tags>newtablook</tags>
                 <tags>noFocus</tags>
+                <tags>Minimized</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_UT5adCgBEem9m98YHEsQ5Q" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_Lc11ECdPEemieueFJGqATQ"/>
               </children>
               <children xsi:type="basic:PartStack" xmi:id="_UT5adSgBEem9m98YHEsQ5Q" elementId="br.com.totvs.tds.server.ui.views.ServersViewMStack" toBeRendered="false" containerData="3000">
@@ -151,6 +152,7 @@
               </children>
               <children xsi:type="basic:PartStack" xmi:id="_UT5afCgBEem9m98YHEsQ5Q" elementId="bottom" containerData="2675" selectedElement="_UT5afSgBEem9m98YHEsQ5Q">
                 <tags>newtablook</tags>
+                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_UT5afSgBEem9m98YHEsQ5Q" elementId="org.eclipse.ui.console.ConsoleView" ref="_Lc6GgCdPEemieueFJGqATQ"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_UT5afigBEem9m98YHEsQ5Q" elementId="org.eclipse.ui.views.ProblemView" ref="_Lc6tkCdPEemieueFJGqATQ"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_UT5afygBEem9m98YHEsQ5Q" elementId="br.com.totvs.tds.server.ui.TotvsServerMonitor" toBeRendered="false" ref="_Lc7UoCdPEemieueFJGqATQ"/>
@@ -179,19 +181,10 @@
       <tags>categoryTag:Ajuda</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_LcoZsCdPEemieueFJGqATQ" elementId="org.eclipse.ui.editorss" selectedElement="_LcoZsSdPEemieueFJGqATQ">
-      <children xsi:type="basic:PartStack" xmi:id="_LcoZsSdPEemieueFJGqATQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_PgfHECp4EemCnPRRzJOVnQ">
+      <children xsi:type="basic:PartStack" xmi:id="_LcoZsSdPEemieueFJGqATQ" elementId="org.eclipse.e4.primaryDataStack">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_PgfHECp4EemCnPRRzJOVnQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="BANCO001.prw" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor&quot; name=&quot;BANCO001.prw&quot; partName=&quot;BANCO001.prw&quot; title=&quot;BANCO001.prw&quot; tooltip=&quot;CURSO_ADVPL/02 - Banco Dados/BANCO001.prw&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CURSO_ADVPL/02 - Banco Dados/BANCO001.prw&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;124&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>br.com.totvs.tds.sdk.advpl.ui.editor.AdvplEditor</tags>
-          <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
-        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_Lc11ECdPEemieueFJGqATQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Explorador de Projeto" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.gif" closeable="true">
@@ -218,6 +211,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:Gerais</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_MYrLMCdPEemieueFJGqATQ" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -225,14 +220,14 @@
       <toolbar xmi:id="_MYrLMSdPEemieueFJGqATQ" elementId="org.eclipse.ui.console.ConsoleView"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_Lc6tkCdPEemieueFJGqATQ" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problemas" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" closeable="true">
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problemas&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Avisos (1 item)&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problemas&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Avisos (2 itens)&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:Gerais</tags>
       <menus xmi:id="_MiM6oCdPEemieueFJGqATQ" elementId="org.eclipse.ui.views.ProblemView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_MiM6oSdPEemieueFJGqATQ" elementId="org.eclipse.ui.views.ProblemView"/>
+      <toolbar xmi:id="_MiM6oSdPEemieueFJGqATQ" elementId="org.eclipse.ui.views.ProblemView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_Lc7UoCdPEemieueFJGqATQ" elementId="br.com.totvs.tds.server.ui.TotvsServerMonitor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Monitor de servidor" iconURI="platform:/plugin/br.com.totvs.tds.server.ui/icons/dev_16x16.png" closeable="true">
       <tags>View</tags>
@@ -259,7 +254,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_LVJ4sCdPEemieueFJGqATQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="__ysEYCpqEemCnPRRzJOVnQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Imprimir" enabled="false" command="_I18ESCdPEemieueFJGqATQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_-yCTACwHEem71dToQ6Er9w" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Imprimir" enabled="false" command="_I18ESCdPEemieueFJGqATQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_LVJ4sSdPEemieueFJGqATQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -280,7 +275,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_LVLG0CdPEemieueFJGqATQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="__zQFEypqEemCnPRRzJOVnQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Reter Editor" type="Check" command="_I16PECdPEemieueFJGqATQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_-y6cwywHEem71dToQ6Er9w" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Reter Editor" type="Check" command="_I16PECdPEemieueFJGqATQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_LVLG0SdPEemieueFJGqATQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -314,7 +309,11 @@
         <tags>Draggable</tags>
       </children>
     </trimBars>
-    <trimBars xmi:id="_IrS6gydPEemieueFJGqATQ" elementId="org.eclipse.ui.trim.vertical1" contributorURI="platform:/plugin/org.eclipse.ui.workbench" side="Left"/>
+    <trimBars xmi:id="_IrS6gydPEemieueFJGqATQ" elementId="org.eclipse.ui.trim.vertical1" contributorURI="platform:/plugin/org.eclipse.ui.workbench" side="Left">
+      <children xsi:type="menu:ToolControl" xmi:id="_cqSagCwbEem71dToQ6Er9w" elementId="org.eclipse.ui.navigator.ProjectExplorerMStack(br.com.totvs.tds.sdk.developerPerspective)" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+      </children>
+    </trimBars>
     <trimBars xmi:id="_IrS6hCdPEemieueFJGqATQ" elementId="org.eclipse.ui.trim.vertical2" contributorURI="platform:/plugin/org.eclipse.ui.workbench" side="Right"/>
   </children>
   <bindingTables xmi:id="_IrS6hSdPEemieueFJGqATQ" contributorURI="platform:/plugin/org.eclipse.ui.workbench" bindingContext="_IrS6hidPEemieueFJGqATQ">

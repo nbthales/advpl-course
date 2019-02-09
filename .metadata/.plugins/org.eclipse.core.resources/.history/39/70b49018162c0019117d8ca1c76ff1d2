@@ -1,0 +1,8 @@
+#include 'protheus.ch'
+#include 'parmtype.ch'
+//PROGRAMA DE ATUALIZAÇÃO
+user function MODELO01()
+	
+	
+	
+return Nil
